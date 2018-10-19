@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LionControlsCore", "LionControlsCore\LionControlsCore.csproj", "{4663E95F-97FB-431A-89B6-640D6EDE41BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_LionControlsCore", "LionControlsCore\_LionControlsCore.csproj", "{4663E95F-97FB-431A-89B6-640D6EDE41BE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LionControlCalendarDisplay", "LionControlCalendarDisplay\LionControlCalendarDisplay.csproj", "{BE67DABC-8A95-4FD0-B325-62950574379C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LionControlSlider", "LionControlSlider\LionControlSlider.csproj", "{C71649C8-ACD9-4D9B-B84A-759ADE807466}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LionControlsSlider", "LionControlSlider\LionControlsSlider.csproj", "{C71649C8-ACD9-4D9B-B84A-759ADE807466}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
